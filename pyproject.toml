@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "vcsi-interface"
+version = "0.1.0"
+description = "A simple GUI interface for vcsi to generate video contact sheets."
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+vcsi = "*"  # Assume vcsi is installed or add it here
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
