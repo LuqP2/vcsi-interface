@@ -72,7 +72,7 @@
  [],
  False,
  False,
- 1761693531,
+ 1761693643,
  [('runw.exe',
    'D:\\vcsi-interface\\vcsi-interface\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
